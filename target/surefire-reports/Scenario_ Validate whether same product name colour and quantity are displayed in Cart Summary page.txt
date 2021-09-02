@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Validate whether same product name colour and quantity are displayed in Cart Summary page
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.104 s - in Scenario: Validate whether same product name colour and quantity are displayed in Cart Summary page

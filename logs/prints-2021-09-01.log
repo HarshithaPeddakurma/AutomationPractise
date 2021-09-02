@@ -1,0 +1,7 @@
+23:41:54.187 [main] INFO  resources.Base - Sucessfully clicked on Submit Button
+23:41:54.278 [main] INFO  resources.Base - Sucessfully LogIn to the account
+23:42:04.594 [main] INFO  resources.Base - Sucessfully clicked on Summerdresses
+23:42:04.874 [main] INFO  resources.Base - Sucessfully clicked on Addtocart
+23:42:04.924 [main] INFO  resources.Base - Sucessfully Added to the Cart
+23:42:25.366 [main] INFO  resources.Base - Sucessfully clicked on Proceedtocheckout
+23:43:00.108 [main] INFO  resources.Base - Same product name is displayed in the cart

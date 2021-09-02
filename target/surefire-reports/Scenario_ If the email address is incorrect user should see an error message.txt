@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: If the email address is incorrect user should see an error message
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.951 s - in Scenario: If the email address is incorrect user should see an error message

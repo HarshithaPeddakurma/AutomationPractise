@@ -1,0 +1,5 @@
+23:33:41.908 [main] INFO  io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\harsh\.m2\repository\webdriver\chromedriver\win32\89.0.4389.23\chromedriver.exe
+23:33:50.616 [main] INFO  resources.Base - Login in to the jupiter toys application
+23:33:55.136 [main] INFO  resources.Base - Sucessfully clicked the SigIn Page
+23:34:04.408 [main] INFO  resources.Base - Sucessfully Registered the account
+23:34:09.436 [main] INFO  resources.Base - Correct name and surname are displayed

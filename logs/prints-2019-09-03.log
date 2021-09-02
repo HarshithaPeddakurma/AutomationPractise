@@ -1,0 +1,6 @@
+19:27:58.053 [pool-1-thread-1] INFO  resources.Base - Sucessfully LogIn to the account
+19:28:01.678 [pool-1-thread-1] INFO  resources.Base - Sucessfully clicked on Summerdresses
+19:28:02.026 [pool-1-thread-1] INFO  resources.Base - Sucessfully clicked on Addtocart
+19:28:02.066 [pool-1-thread-1] INFO  resources.Base - Sucessfully Added to the Cart
+19:28:06.875 [pool-1-thread-1] INFO  resources.Base - Sucessfully clicked on Proceedtocheckout
+19:28:06.937 [pool-1-thread-1] INFO  resources.Base - Same product name is displayed in the cart
